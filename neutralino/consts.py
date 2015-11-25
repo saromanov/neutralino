@@ -1,0 +1,7 @@
+import math
+
+PI = math.PI
+EULER = 0.5772156649
+G = 6.67259e-11
+PLANCK = 6.6260755e-34
+DIRAC = 1.0545727e-34
